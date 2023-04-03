@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog - Bootstrap based front end web page
